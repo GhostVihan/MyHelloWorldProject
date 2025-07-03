@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gange
+ *
+ */
+module MyJava {
+}
